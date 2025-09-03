@@ -10,16 +10,6 @@ The `deploy.sh` script performs an rsync-based deploy over SSH. It supports two 
 
 - Explicit key (one-off): pass the private key file via the `SSH_KEY` environment variable.
 
-# 03-static-site-server
-
-Simple repository with a small static site and a helper `deploy.sh` script that uses `rsync` to publish `my-static-site/` to a remote server.
-
-## Usage
-
-The `deploy.sh` script performs an rsync-based deploy over SSH. It supports two common SSH workflows:
-
-- Explicit key (one-off): pass the private key file via the `SSH_KEY` environment variable.
-
   Example (WSL / Linux):
 
   ```bash
@@ -39,4 +29,3 @@ The `deploy.sh` script performs an rsync-based deploy over SSH. It supports two 
   ```
 
 Note: Running the script with `SSH_KEY=...` is optional. Use whichever method fits your workflow.
-

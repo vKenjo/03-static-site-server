@@ -4,7 +4,7 @@ Simple repository with a small static site and a helper `deploy.sh` script that 
 
 The website is also available through <http://54.169.109.209/>, running on an AWS EC2 Ubuntu server.
 
-This project also fulfills the roadmap/s Basic DNS Setup, running on Cloudflare, nginx, and GitHub Pages. <https://roadmap.sh/projects/basic-dns>
+This project [https://roadmap.sh/projects/ec2-instance](https://roadmap.sh/projects/ec2-instance) also fulfills the roadmap/s [Basic DNS Setup](https://roadmap.sh/projects/basic-dns), running on Cloudflare, nginx, and GitHub Pages.
 
 ## Usage
 

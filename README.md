@@ -2,6 +2,8 @@
 
 Simple repository with a small static site and a helper `deploy.sh` script that uses `rsync` to publish `my-static-site/` to a remote server. <https://roadmap.sh/projects/static-site-server>
 
+The website is also available through <http://54.169.109.209/>, running on an AWS EC2 Ubuntu server.
+
 This project also fulfills the roadmap/s Basic DNS Setup, running on Cloudflare, nginx, and GitHub Pages. <https://roadmap.sh/projects/basic-dns>
 
 ## Usage
